@@ -1,0 +1,14 @@
+[
+    {
+        "title": "data structures",
+        "author": "mark jacobes",
+        "isbn": "222",
+        "status": "available"
+    },
+    {
+        "title": "machine learning",
+        "author": "andrew white",
+        "isbn": "333",
+        "status": "available"
+    }
+]
